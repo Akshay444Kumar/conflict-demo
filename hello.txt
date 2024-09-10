@@ -1,2 +1,4 @@
 Hello
-How you doinnn...??
+<<<<<<< HEAD
+Hey there...
+======
